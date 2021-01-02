@@ -1,20 +1,18 @@
-Books-recommender-system-from-goodreads-API
+Housing Prices Competition
 ===========================================
 
 Project Title
 -------------
-Books Recommender Systems
-<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png">
-
+Housing Prices Competition
+.. image:: https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png
+   :width: 633
 Date created
 ------------
-10/08/2020
+3/01/2021
 
 Creator
 -------
 - `Omar Mohamed <https://github.com/omer8>`__.
--  `Mahmoud Hegab <https://github.com/HEGAB7>`__.
--  `Seif Mohamed <https://github.com/Seif-Mohamed1>`__.
 
 This data set contains the following features:
 ----------------------------------------------
