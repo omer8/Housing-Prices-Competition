@@ -1,11 +1,5 @@
 Housing Prices Competition
 ===========================================
-
-Project Title
--------------
-Housing Prices Competition
-.. image:: https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png
-   :width: 633
 Date created
 ------------
 3/01/2021
@@ -14,25 +8,18 @@ Creator
 -------
 - `Omar Mohamed <https://github.com/omer8>`__.
 
-This data set contains the following features:
-----------------------------------------------
- 
-   -  id : The Book ID
-   -  title : The Book Title
-   - rating : The rating given to the book
-   - user : The User ID
-  
-Project Workflow:
+Competition Description
 -----------------
-Scraping Data:
+Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home
 
-We scrape the data from `Goodreads API <https://www.goodreads.com/api/index#review.show>`__. which gets the books in a member shelf.
+Practice Skills
+-----------------
+Creative feature engineering Advanced regression techniques like random forest and gradient boosting
 
-Recommender System:
+Acknowledgments
+-----------------
+The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset.
 
-This is a Collaborative filtering Recommender system that we used to build intelligent recommender systems
-that can learn to give better recommendations as more information about users is collected.
-
-This recommender take a book name and then recommend to you the most relevant books to it.
 
 
