@@ -1,5 +1,9 @@
 Housing Prices Competition
 ===========================================
+Finished Place
+------------
+Top 3%(1475/56111)
+
 Date created
 ------------
 3/01/2021
