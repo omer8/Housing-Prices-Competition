@@ -2,7 +2,7 @@ Housing Prices Competition
 ===========================================
 Finished Place
 ------------
-Top 2%(548/35376)
+Top 2%(542/35376)
 
 Date created
 ------------
